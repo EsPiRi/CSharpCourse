@@ -1,0 +1,5 @@
+C:\Users\sami_\source\repos\CSharpCourse\Loops\bin\Debug\Loops.exe.config
+C:\Users\sami_\source\repos\CSharpCourse\Loops\bin\Debug\Loops.exe
+C:\Users\sami_\source\repos\CSharpCourse\Loops\bin\Debug\Loops.pdb
+C:\Users\sami_\source\repos\CSharpCourse\Loops\obj\Debug\Loops.exe
+C:\Users\sami_\source\repos\CSharpCourse\Loops\obj\Debug\Loops.pdb

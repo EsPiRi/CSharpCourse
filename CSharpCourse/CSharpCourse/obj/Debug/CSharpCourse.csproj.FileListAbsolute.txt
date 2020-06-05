@@ -1,0 +1,2 @@
+C:\Users\sami_\source\repos\CSharpCourse\CSharpCourse\obj\Debug\CSharpCourse.csprojAssemblyReference.cache
+C:\Users\sami_\source\repos\CSharpCourse\CSharpCourse\obj\Debug\CSharpCourse.csproj.CoreCompileInputs.cache

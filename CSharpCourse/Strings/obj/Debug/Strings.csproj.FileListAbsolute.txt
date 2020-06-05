@@ -1,0 +1,6 @@
+C:\Users\sami_\source\repos\CSharpCourse\Strings\bin\Debug\Strings.exe.config
+C:\Users\sami_\source\repos\CSharpCourse\Strings\bin\Debug\Strings.exe
+C:\Users\sami_\source\repos\CSharpCourse\Strings\bin\Debug\Strings.pdb
+C:\Users\sami_\source\repos\CSharpCourse\Strings\obj\Debug\Strings.exe
+C:\Users\sami_\source\repos\CSharpCourse\Strings\obj\Debug\Strings.pdb
+C:\Users\sami_\source\repos\CSharpCourse\Strings\obj\Debug\Strings.csprojAssemblyReference.cache

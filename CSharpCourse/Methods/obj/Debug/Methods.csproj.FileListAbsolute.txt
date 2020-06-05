@@ -1,0 +1,6 @@
+C:\Users\sami_\source\repos\CSharpCourse\Methods\bin\Debug\Methods.exe.config
+C:\Users\sami_\source\repos\CSharpCourse\Methods\bin\Debug\Methods.exe
+C:\Users\sami_\source\repos\CSharpCourse\Methods\bin\Debug\Methods.pdb
+C:\Users\sami_\source\repos\CSharpCourse\Methods\obj\Debug\Methods.csprojAssemblyReference.cache
+C:\Users\sami_\source\repos\CSharpCourse\Methods\obj\Debug\Methods.exe
+C:\Users\sami_\source\repos\CSharpCourse\Methods\obj\Debug\Methods.pdb

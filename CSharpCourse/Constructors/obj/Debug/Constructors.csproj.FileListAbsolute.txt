@@ -1,0 +1,7 @@
+C:\Users\sami_\source\repos\CSharpCourse\Constructors\bin\Debug\Constructors.exe.config
+C:\Users\sami_\source\repos\CSharpCourse\Constructors\bin\Debug\Constructors.exe
+C:\Users\sami_\source\repos\CSharpCourse\Constructors\bin\Debug\Constructors.pdb
+C:\Users\sami_\source\repos\CSharpCourse\Constructors\obj\Debug\Constructors.csprojAssemblyReference.cache
+C:\Users\sami_\source\repos\CSharpCourse\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\sami_\source\repos\CSharpCourse\Constructors\obj\Debug\Constructors.exe
+C:\Users\sami_\source\repos\CSharpCourse\Constructors\obj\Debug\Constructors.pdb
