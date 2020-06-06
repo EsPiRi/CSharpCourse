@@ -1,0 +1,7 @@
+C:\Users\sami_\workspace\CSharpCourse\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\sami_\workspace\CSharpCourse\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\sami_\workspace\CSharpCourse\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\sami_\workspace\CSharpCourse\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.csprojAssemblyReference.cache
+C:\Users\sami_\workspace\CSharpCourse\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\sami_\workspace\CSharpCourse\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\sami_\workspace\CSharpCourse\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.pdb
