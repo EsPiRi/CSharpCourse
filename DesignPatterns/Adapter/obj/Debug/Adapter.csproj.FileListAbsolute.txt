@@ -1,0 +1,7 @@
+C:\Users\sami_\workspace\CSharpCourse\DesignPatterns\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\sami_\workspace\CSharpCourse\DesignPatterns\Adapter\bin\Debug\Adapter.exe
+C:\Users\sami_\workspace\CSharpCourse\DesignPatterns\Adapter\bin\Debug\Adapter.pdb
+C:\Users\sami_\workspace\CSharpCourse\DesignPatterns\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+C:\Users\sami_\workspace\CSharpCourse\DesignPatterns\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\sami_\workspace\CSharpCourse\DesignPatterns\Adapter\obj\Debug\Adapter.exe
+C:\Users\sami_\workspace\CSharpCourse\DesignPatterns\Adapter\obj\Debug\Adapter.pdb
